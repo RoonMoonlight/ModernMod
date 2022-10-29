@@ -1,7 +1,7 @@
 ---
 name: Mod suggestions
 about: Do you have suggestion about adding mods?
-title: [Mod Suggestions]
+title: [Mod Suggestion] 
 labels: enhancement
 assignees: ''
 ---

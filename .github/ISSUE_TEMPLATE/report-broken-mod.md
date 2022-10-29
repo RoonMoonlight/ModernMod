@@ -1,7 +1,7 @@
 ---
 name: Report broken mod
 about: Found any broken mod(s)?
-title: ''
+title: [Broken Mod] 
 labels: bug
 assignees: ''
 
