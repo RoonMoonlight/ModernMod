@@ -24,7 +24,6 @@ You MUST follow the load order otherwise you will run into any issues.
 * [Isabel Kruger Redesign](https://www.nexusmods.com/mirrorsedgecatalyst/mods/135)
 * [Lighting Overhaul for Better Skies](https://www.nexusmods.com/mirrorsedgecatalyst/mods/77)
 * [MapCamera Plus](https://www.nexusmods.com/mirrorsedgecatalyst/mods/30)
-* [Better Loading Screens](https://www.nexusmods.com/mirrorsedgecatalyst/mods/17)
 * [No White Fades](https://www.nexusmods.com/mirrorsedgecatalyst/mods/7)
 * [Dark placeholder loading screen](https://www.nexusmods.com/mirrorsedgecatalyst/mods/140)
 * (Optional) [Speedometer](https://www.nexusmods.com/mirrorsedgecatalyst/mods/152)
