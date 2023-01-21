@@ -10,7 +10,7 @@ Mirror's Edge Catalyst: Exceed is the fan-made modpack for Mirror's Edge Catalys
 # List of Mods
 **Note**: On NexusMods, you need to create or login to your NexusMods account to download mods!
 
-Mods not working? Try the [FrostyFix](https://github.com/Dyvinia/FrostyFix) tool.
+Mods not working? Try installing [DatapathFixPlugin](https://github.com/Dyvinia/DatapathFixPlugin).
 
 ## Core Mod (IMPORTANT)
 * [Frosty Mod Manager](https://frostytoolsuite.com/downloads.html) (USE 1.0.6 or later if you do use EA app, Steam, Epic Games Store)
@@ -24,6 +24,8 @@ You MUST follow the load order otherwise you will run into any issues.
 * [Isabel Kruger Redesign](https://www.nexusmods.com/mirrorsedgecatalyst/mods/135)
 * [Lighting Overhaul for Better Skies](https://www.nexusmods.com/mirrorsedgecatalyst/mods/77)
 * [MapCamera Plus](https://www.nexusmods.com/mirrorsedgecatalyst/mods/30)
+* [Better Loading Screens](https://www.nexusmods.com/mirrorsedgecatalyst/mods/17)
+* [No White Fades](https://www.nexusmods.com/mirrorsedgecatalyst/mods/7)
 * [Dark placeholder loading screen](https://www.nexusmods.com/mirrorsedgecatalyst/mods/140)
 * (Optional) [Speedometer](https://www.nexusmods.com/mirrorsedgecatalyst/mods/152)
 * [No Network Issues Widget](https://www.nexusmods.com/mirrorsedgecatalyst/mods/171)
