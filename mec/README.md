@@ -10,6 +10,8 @@ Mirror's Edge Catalyst: Exceed is the fan-made modpack for Mirror's Edge Catalys
 # List of Mods
 **Note**: On NexusMods, you need to create or login to your NexusMods account to download mods!
 
+Mods not working? Try the [FrostyFix](https://github.com/Dyvinia/FrostyFix) tool.
+
 ## Core Mod (IMPORTANT)
 * [Frosty Mod Manager](https://frostytoolsuite.com/downloads.html) (USE 1.0.6 or later if you do use EA app, Steam, Epic Games Store)
 
