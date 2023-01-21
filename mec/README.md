@@ -1,5 +1,3 @@
-![logo](https://user-images.githubusercontent.com/25527589/198815739-84e2597d-f58e-4288-8aab-e2a7a9380b89.png)
-
 > **"Expanding the parkour beyond the limit"**
 
 # Mirror's Edge Catalyst: Exceed
@@ -8,18 +6,6 @@ Mirror's Edge Catalyst: Exceed is the fan-made modpack for Mirror's Edge Catalys
 # Requirements
 * [Mirror's Edge: Catalyst](https://www.ea.com/games/mirrors-edge/mirrors-edge-catalyst)
 * [NexusMods Accounts](https://www.nexusmods.com) (Required for downloading mods)
-
-# Features
-* Improvements to graphics, and little details while not changing whole gameplay experiences
-* Slight improvements to graphic
-* Now NCPD uses their own car and spawns far away from players instead of appearing like NCPDs having teleport ability
-* Better driving features
-* Now you can hide specific helmets and armors - Better looks are more important!
-* E3 intro videos are now back upon startup
-* Improvements to UI features
-* Romance/Message Features received more improvements
-* And some bug fixes that affects the gameplay
-* NEW! Optional Cyberpunk: Edgerunners soundtracks are included! (You may remove it if you don't like, it is up to your decision)
 
 # List of Mods
 **Note**: On NexusMods, you need to create or login to your NexusMods account to download mods!
