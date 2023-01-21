@@ -33,7 +33,4 @@ You MUST follow the load order otherwise you will run into any issues.
 * [Faster Animations Mod for Mirror's Edge Catalyst](https://www.nexusmods.com/mirrorsedgecatalyst/mods/121)
 * [More frequent takedowns](https://www.nexusmods.com/mirrorsedgecatalyst/mods/34)
 * [Takedowns in Freeroam](https://www.nexusmods.com/mirrorsedgecatalyst/mods/44)
-* [River Romanced Enhanced](https://www.nexusmods.com/cyberpunk2077/mods/4870)
-* [True Hidden Everything (Hide Helmet and Armor)](https://www.nexusmods.com/cyberpunk2077/mods/2206)
-* [Vehicle Combat](https://www.nexusmods.com/cyberpunk2077/mods/3815)
 * [Centurian Yards and Concord Plaza with more content](https://www.nexusmods.com/mirrorsedgecatalyst/mods/205)
