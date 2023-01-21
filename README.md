@@ -7,9 +7,10 @@ If the project only supports Windows and you are using Linux, you may also try u
 tl;dr - Use at own risk.
 
 # List of Enhanced Mods
-* [PAYDAY 2: Heist of Frenzy](https://github.com/MysticMoonlight/ModernMod/blob/main/hof/README.md) (Windows)
 * [Cyberpunk 2077: The Seventy Seven](https://github.com/MysticMoonlight/ModernMod/blob/main/c77/README.md) (Windows)
-   
+* [Mirror's Edge Catalyst: Exceed](https://github.com/MysticMoonlight/ModernMod/blob/main/mec/README.md) (Windows)
+* [PAYDAY 2: Heist of Frenzy](https://github.com/MysticMoonlight/ModernMod/blob/main/hof/README.md) (Windows)
+
 # Our Standards
 This project follows EnhancedMod standards, but with only exception. For more information, [Read more here](https://github.com/MysticMoonlight/EnhancedMod/blob/main/STANDARD.md).
 
